@@ -1,0 +1,11 @@
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\bin\Debug\FinalProject(Game).exe.config
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\bin\Debug\FinalProject(Game).exe
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\bin\Debug\FinalProject(Game).pdb
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\obj\Debug\FinalProject(Game).csproj.AssemblyReference.cache
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\obj\Debug\FinalProject_Game_.Form1.resources
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\obj\Debug\FinalProject_Game_.Game_Form.resources
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\obj\Debug\FinalProject_Game_.Properties.Resources.resources
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\obj\Debug\FinalProject(Game).csproj.GenerateResource.cache
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\obj\Debug\FinalProject(Game).csproj.CoreCompileInputs.cache
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\obj\Debug\FinalProject(Game).exe
+C:\Users\Masha\source\repos\FinalProject(Game)\FinalProject(Game)\obj\Debug\FinalProject(Game).pdb
